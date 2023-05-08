@@ -1,5 +1,3 @@
-[//]: # (DinoDiet Readme starts below)
-
 Project Title: DinoDiet
 
 Principal Investigator: Dr. Geller
@@ -111,3 +109,5 @@ Conclusion
   Summarise findings
   Discuss implications for dinosaur evolution and ecology
   Suggest future research directions
+
+This is a fictional research project undertaken by a fictional principal investigator. For educational purposes only.
