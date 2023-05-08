@@ -92,7 +92,7 @@ Spinosaurus      | Carnivore | Fish, small to medium-sized dinosaurs
 
 Roadmap:
 
-To track the progress of the project, we will be using task lists. Here's an example of a task list for our project:
+To track the progress of the project, we will be using this roadmap:
 
 Data Collection
   Collect data from fossil records
