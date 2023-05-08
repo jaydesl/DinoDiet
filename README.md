@@ -100,9 +100,9 @@ of some well-known dinosaur species:
 | Brachiosaurus    | Herbivore | High tree foliage, such as conifers |
 | Spinosaurus      | Carnivore | Fish, small to medium-sized dinosaurs |
 
-Roadmap:
+## Roadmap
 
-To track the progress of the project, we will be using task lists. Here's an example of a task list for our project:
+To track the progress of the project, we will be using this roadmap:
 
 - [ ] Data Collection
   - [X] Collect data from fossil records
