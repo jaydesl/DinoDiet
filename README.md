@@ -1,3 +1,5 @@
+[//]: # (DinoDiet Readme starts below)
+
 Project Title: DinoDiet
 
 Principal Investigator: Dr. Geller
@@ -13,8 +15,14 @@ Sections:
 
 Data Collection
 Data Analysis
-Data Visualization
+Data Visualisation
 Conclusion
+
+A simple plan for progressing through the technical stages of the project
+is shown below:
+
+Collection --> Analysis --> Visualisation
+                   |--> Conclusion
 
 Data Collection:
 
@@ -60,10 +68,17 @@ of dinosaurs during the late Cretaceous period. The findings from this research
 could provide insights into the evolution and ecology of these fascinating creatures
 and potentially reveal new information about their extinction event.
 
+Further Info:
+
 For more information about dinosaurs and their diet, visit the American Museum of
 Natural History's website at https://www.amnh.org/
 
-Reference:
+Contributor Reference:
+
+The Hunger Factor (HF) is an important metric in our work. We calculate it
+with the following equation:
+
+HF = sqrt(Food Eaten^2)
 
 For reference, here is a summary of the diets and primary food sources
 of some well-known dinosaur species:
