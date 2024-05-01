@@ -1,4 +1,4 @@
-[//]: # (DinoDiet Readme starts below)
+<!--DinoDiet Readme starts below-->
 
 # DinoDiet
 
@@ -8,8 +8,10 @@
 
 This project[^1] aims to analyse the dietary habits of dinosaurs during 
 the late Cretaceous period. We will be focusing on the differences
-between herbivorous and carnivorous dinosaurs. The project will include
-data collection, analysis, and visualisation of the findings.
+between herbivorous and carnivorous dinosaurs.
+
+> [!NOTE]
+> The project will include data collection, analysis, and visualisation of the findings.
 
 ## Sections
 
@@ -60,6 +62,9 @@ This will help us better understand the relationships between different dinosaur
 species and their diets. For instance, we will include visualisations such as pie
 charts for proportions of herbivorous and carnivorous dinosaurs, and bar graphs
 for the comparison of average body sizes.
+
+> [!WARNING]
+> Dinosaur images may be frightening.
 
 An example of a dinosaur image we will use for reference in our
 visualisations can be found below:
