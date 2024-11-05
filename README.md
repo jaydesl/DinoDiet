@@ -86,7 +86,7 @@ HF = sqrt(Food Eaten^2)
 DinoSoft
 
 When calculating large HF scores for dinosaurs, the DinoSoft software may crash.
-Please reboot your machine with <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>Delete</kbd>.
+Please reboot your machine with Ctrl + Alt + Delete.
 
 Dino Diets
 
