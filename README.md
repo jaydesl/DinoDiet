@@ -24,7 +24,7 @@ A simple plan for progressing through the technical stages of the project
 is shown below:
 
 ```mermaid
-graph LR;
+flowchart LR
   Collection --> Analysis --> Visualisation
                  Analysis --> Conclusion
 ```
@@ -104,6 +104,16 @@ of some well-known dinosaur species:
 | Velociraptor     | Carnivore | Small herbivorous dinosaurs |
 | Brachiosaurus    | Herbivore | High tree foliage, such as conifers |
 | Spinosaurus      | Carnivore | Fish, small to medium-sized dinosaurs |
+| Oviraptor        | Omnivore  | Eggs, plants, small animals |
+
+More widely, we estimate the following distribution of dinosaur diets:
+
+```mermaid
+pie title Dino Diet Distribution
+    "Herbivore" : 65
+    "Carnivore" : 25
+    "Omnivore" : 10
+```
 
 ## Roadmap
 
