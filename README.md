@@ -88,19 +88,19 @@ Natural History's website at https://www.amnh.org/
   
 ## Contributor Reference
 
-### Hunger Factor
+### Hunger Factor :chart_with_upwards_trend:
 
 The Hunger Factor (HF) is an important metric in our work. We calculate it
 with the following equation:
 
 $HF = \sqrt(Food Eaten^2)$
 
-### DinoSoft Bugs
+### DinoSoft Bugs :bug:
 
 When calculating large HF scores for dinosaurs, the DinoSoft software may crash.
 Please reboot your machine with <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>Delete</kbd>.
 
-### Dino Diets
+### Dino Diets :t-rex:
 
 For reference, here is a summary of the diets and primary food sources
 of some well-known dinosaur species:
