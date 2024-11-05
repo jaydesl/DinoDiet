@@ -92,6 +92,10 @@ Stegosaurus      | Herbivore | Ferns, mosses, and cycads
 Velociraptor     | Carnivore | Small herbivorous dinosaurs
 Brachiosaurus    | Herbivore | High tree foliage, such as conifers
 Spinosaurus      | Carnivore | Fish, small to medium-sized dinosaurs
+Oviraptor        | Omnivore  | Eggs, plants, small animals
+
+More widely, we estimate the following distribution of dinosaur diets:
+65% Herbivore, 25% Carnivore, 10% Omnivore
 
 Roadmap:
 
