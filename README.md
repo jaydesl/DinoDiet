@@ -36,8 +36,8 @@ scientific literature, and online databases. We've listed some key sources
 below, check them out!
 
 1. [Paleobiology Database](https://paleobiodb.org)
-2. [Fossilworks](http://fossilworks.org)
-3. [Research articles from the Journal of Vertebrate Paleontology](https://www.tandfonline.com/toc/ujvp20/current)
+2. [The Fossil Forum](https://www.thefossilforum.com/)
+4. [Research articles from the Journal of Vertebrate Paleontology](https://www.tandfonline.com/toc/ujvp20/current)
 
 ### Data Analysis
 
