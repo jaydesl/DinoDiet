@@ -1,7 +1,18 @@
 
 <!-- README.md is generated from README.Rmd via `devtools::build_readme()`. Please edit README.Rmd -->
 
-# IMPERIAL thesisdown
+# IMPERIALdown
+
+This is a rough fork of [thesis down](https://github.com/ismayc/thesisdown) and the Reed College LaTeX thesis class file and template, adapted for teaching
+at Imperial College London. The modifications to the `.cls` and `.tex` files were inspired by an Overleaf
+template developed by nuric (Creative Commons CC BY 4.0). Links below:
+
+- doc.ic.ac.uk/~nuric/posts/teaching/imperial-college-phd-thesis-latex-template/
+- overleaf.com/latex/templates/imperial-college-phd-thesis-template/hrwyvzbvmdzh
+
+**NOTE** this template is *not* officially recognised by Imperial College London
+nor is it validated for correctness. Please ensure the final rendered document
+meets the requirements set out by the University and your department.
 
 ### Using thesisdown from Chester’s GitHub
 
