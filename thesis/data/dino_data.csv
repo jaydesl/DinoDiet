@@ -1,0 +1,50 @@
+Day,Time,Dinosaur Species,Diet,Food Type,Kg Food Eaten
+1,08:00,Triceratops,Herbivore,Ferns,50
+1,10:30,Tyrannosaurus,Carnivore,Triceratops,75
+1,13:00,Stegosaurus,Herbivore,Moss,30
+1,15:15,Velociraptor,Carnivore,Small Dinosaur,10
+1,18:00,Brachiosaurus,Herbivore,Conifer Leaves,120
+2,08:30,Spinosaurus,Carnivore,Fish,40
+2,11:00,Oviraptor,Omnivore,Plants,5
+2,13:45,Ankylosaurus,Herbivore,Low-lying Plants,25
+2,16:00,Allosaurus,Carnivore,Small Dinosaur,50
+2,19:00,Iguanodon,Herbivore,Ferns,45
+3,09:00,Pachycephalosaurus,Herbivore,Seeds,10
+3,11:30,Compsognathus,Carnivore,Insects,1
+3,14:00,Diplodocus,Herbivore,Conifer Leaves,80
+3,16:30,Gallimimus,Omnivore,Small Animals,5
+3,18:00,Corythosaurus,Herbivore,Aquatic Plants,40
+4,08:15,Parasaurolophus,Herbivore,Soft Vegetation,35
+4,10:45,Therizinosaurus,Herbivore,Plants,30
+4,13:30,Carnotaurus,Carnivore,Large Herbivore,65
+4,15:00,Edmontosaurus,Herbivore,Aquatic Plants,50
+4,17:45,Maiasaura,Herbivore,Low-growing Plants,25
+5,08:00,Triceratops,Herbivore,Cycads,60
+5,10:20,Tyrannosaurus,Carnivore,Edmontosaurus,70
+5,12:30,Stegosaurus,Herbivore,Ferns,35
+5,14:00,Velociraptor,Carnivore,Small Herbivore,12
+5,16:20,Brachiosaurus,Herbivore,High Trees,130
+6,09:10,Spinosaurus,Carnivore,Fish,45
+6,11:30,Oviraptor,Omnivore,Small Animals,4
+6,13:50,Ankylosaurus,Herbivore,Ferns,28
+6,15:40,Allosaurus,Carnivore,Small Herbivore,48
+6,17:55,Iguanodon,Herbivore,Moss,50
+7,08:25,Pachycephalosaurus,Herbivore,Fruits,15
+7,10:45,Compsognathus,Carnivore,Reptiles,1.5
+7,12:00,Diplodocus,Herbivore,Conifer Foliage,85
+7,14:20,Gallimimus,Omnivore,Plants,6
+7,16:30,Corythosaurus,Herbivore,Aquatic Vegetation,42
+8,08:00,Parasaurolophus,Herbivore,Soft Plants,32
+8,10:30,Therizinosaurus,Herbivore,Low Vegetation,29
+8,13:00,Carnotaurus,Carnivore,Medium Herbivore,60
+8,15:15,Edmontosaurus,Herbivore,Aquatic Vegetation,55
+8,18:00,Maiasaura,Herbivore,Ferns,27
+9,08:30,Triceratops,Herbivore,Ferns,53
+9,11:00,Tyrannosaurus,Carnivore,Iguanodon,80
+9,13:45,Stegosaurus,Herbivore,Moss,38
+9,16:00,Velociraptor,Carnivore,Small Dinosaur,14
+9,19:00,Brachiosaurus,Herbivore,Conifer Leaves,125
+10,09:00,Spinosaurus,Carnivore,Fish,42
+10,11:30,Oviraptor,Omnivore,Eggs,3
+10,14:00,Ankylosaurus,Herbivore,Low Plants,30
+10,16:30,Allosaurus,Carnivore,Herbivore,52

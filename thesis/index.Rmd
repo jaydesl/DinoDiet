@@ -1,0 +1,66 @@
+---
+title: 'Imperial College PhD Thesis'
+author: 'Ross Geller'
+date: 'November 2024'
+institution: 'Imperial College London'
+department: 'Department of Dinosaurs'
+degree: 'Doctor of Philosophy in Dinosaurs'
+
+
+knit: bookdown::render_book
+site: bookdown::bookdown_site
+
+output:
+  thesisdown::thesis_pdf:
+    default:
+      template: template.tex
+      keep_tex: true
+
+abstract: |
+  `r {
+    # First try local path
+    local_path <- "00-abstract.Rmd"
+    thesis_path <- here::here("thesis", "00-abstract.Rmd")
+    
+    if(file.exists(local_path)) {
+      paste(readLines(local_path, warn = FALSE), collapse = "\n  ")
+    } else if(file.exists(thesis_path)) {
+      paste(readLines(thesis_path, warn = FALSE), collapse = "\n  ")
+    } else {
+      warning("Abstract file not found")
+      ""
+    }
+  }`
+  
+acknowledgements: |
+  Firstly, the loved ones. For example your family is a great starting point.
+  
+  Secondly, your supervisor.
+  
+  Finally, your colleagues and friends.
+
+  
+dedication: |
+  For my loved one(s).
+  
+
+bibliography: bib/thesis.bib
+csl: csl/icl-harvard.csl
+link-citations: true
+
+lot: true
+lof: true
+---
+
+```{r td_setup, include=FALSE}
+# This chunk ensures required packages are installed and loaded
+if (!require(remotes)) {
+  install.packages("remotes", repos = "https://cran.rstudio.com")
+}
+if (!require(thesisdown)) {
+  remotes::install_github("ismayc/thesisdown")
+}
+library(thesisdown)
+options(width = 70)
+```
+
